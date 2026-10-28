@@ -119,6 +119,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 === Map data (Open Database License) ===
 Shop positions and street layout of the Distillery District streets (including the v7.5.4
-2.5D Tank House Ln sample) are partly derived from OpenStreetMap data.
+2.5D Tank House Ln sample) and of the v7.5.5 preview streets (Kensington Market: Kensington Ave /
+Augusta Ave; Harbourfront: Queens Quay W) are partly derived from OpenStreetMap data.
 © OpenStreetMap contributors, ODbL — https://www.openstreetmap.org/copyright
 （© OpenStreetMap contributors，ODbL）No map files are included in this build; all street art is original pixel art.
+
+=== Music: 阁楼圆舞曲 music_loft_waltz (original, no third-party audio) ===
+The Loft record player waltz (audio/music/music_loft_waltz.ogg, a 76.8 s loop, 3/4 at 75 BPM) is an original
+composition by this project's audio team (游), synthesised by the project's own code with sine voices only.
+It uses no samples, recordings, voices or third-party material, so no audio licence applies.
+（阁楼圆舞曲：游 原创，用本项目自己的代码合成；没有采样、录音、人声或第三方素材。）
